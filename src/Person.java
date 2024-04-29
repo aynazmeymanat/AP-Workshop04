@@ -1,3 +1,10 @@
+/**
+ * Voters details
+ * @author Aynaz Meymanat
+ * @author aynazmeymanat@aut.ac.ir
+ * @version 1.0.2
+ * @since 2024/04/14
+ */
 
 public class Person {
     //fields
