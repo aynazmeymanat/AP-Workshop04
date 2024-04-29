@@ -2,7 +2,7 @@
  * Voters details
  * @author Aynaz Meymanat
  * @author aynazmeymanat@aut.ac.ir
- * @version 1.0.2
+ * @version 1.0.4
  * @since 2024/04/14
  */
 
